@@ -16,4 +16,4 @@
 </a>
 </div>
 
-[![Certificações](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/3bb6da74-3684-4515-89bf-117fc4bd7483)]()
+[![Certificações](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/3bb6da74-3684-4515-89bf-117fc4bd7483)](https://github.com/Thamine-sumaya/Github-Certification/blob/main/cartificações.md)
