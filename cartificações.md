@@ -39,3 +39,11 @@
 
 
 ![image](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/e635588b-6e54-4bd8-a58d-8fcf9b37bb35)
+
+<a href="">
+   <img src="https://hermes.dio.me/courses/badge/f7a40358-3881-482d-b96d-374166e70c8a.png" alt="Projeto 1" width="100" >
+</a>
+<a href="">
+   <img src="https://hermes.dio.me/lab_projects/badges/1afd49d9-c324-4c48-8d93-a3c9d2837e9b.png" alt="Projeto 1" width="100" >
+</a>
+
