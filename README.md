@@ -9,17 +9,17 @@ O programa de Certificação GitHub é estruturado em três segmentos educaciona
 <br>
 <br>
 
-<a>
+<!---<a>
 <img src="https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/1ee3aeea-f5cb-4898-97b9-95f0518548d3" alt="" width="125">
 </a>
 <br>
-<br>
+<br>--->
 
 <a>
 <img src="https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/1729aaad-fbfc-4ddb-8cb4-4344a13561ca" alt="" width="150">
 </a>
 
-[![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)](#git-e-github)
-
+![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 [![Certificações](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/3bb6da74-3684-4515-89bf-117fc4bd7483)](https://github.com/Thamine-sumaya/Github-Certification/blob/main/cartificações.md)
