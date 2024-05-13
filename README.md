@@ -29,5 +29,6 @@ Tarefa 2 -> <a href="https://github.com/Thamine-sumaya/Github-Certification/blob
 
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)](#python)
 
 [![Certificações](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/3bb6da74-3684-4515-89bf-117fc4bd7483)](https://github.com/Thamine-sumaya/Github-Certification/blob/main/cartificações.md)
