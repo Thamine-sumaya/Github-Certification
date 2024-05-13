@@ -16,6 +16,9 @@
 <a href="https://www.dio.me/certificate/FDT0KYU9/share">
    <img src="https://hermes.dio.me/lab_projects/badges/87d44e6e-ce4f-4abc-a354-585b84e7a57c.png" alt="Projeto 1" width="100" >
 </a>
+<a>
+   <img src="https://hermes.dio.me/code_challenge/badge/22735b26-1972-4dc6-9563-7b1e40142862.png" alt="Projeto 1" width="100" >
+</a>
 
 ![image](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/c9344863-8131-4f6b-a198-81a12bd3b865)
 
