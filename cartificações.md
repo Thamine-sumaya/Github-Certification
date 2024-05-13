@@ -24,14 +24,18 @@
 <a href="https://www.dio.me/certificate/PGQ4ZFG3/share">
    <img src="https://hermes.dio.me/courses/badge/8d065b21-aeac-49a0-a7b8-19dbea49b3e9.png" alt="Projeto 1" width="100" >
 </a>
-<a href="">
+<a href="https://www.dio.me/certificate/ISTIBSYG/share">
    <img src="https://hermes.dio.me/courses/badge/8d065b21-aeac-49a0-a7b8-19dbea49b3e9.png" alt="Projeto 1" width="100" >
 </a>
-<a href="">
+<a href="https://www.dio.me/certificate/JPBOKPW5/share">
    <img src="https://hermes.dio.me/courses/badge/8d065b21-aeac-49a0-a7b8-19dbea49b3e9.png" alt="Projeto 1" width="100" >
 </a>
-<a href="">
+<a href="https://www.dio.me/certificate/7UNXUMVP/share">
    <img src="https://hermes.dio.me/courses/badge/8d065b21-aeac-49a0-a7b8-19dbea49b3e9.png" alt="Projeto 1" width="100" >
 </a>
+<a href="https://www.dio.me/certificate/CQUN1HSG/share">
+   <img src="https://hermes.dio.me/lab_projects/badges/be5b9e4c-bbc0-4bcc-a1cd-41861b316624.png" alt="Projeto 1" width="100" >
+</a>
+
 
 ![image](https://github.com/Thamine-sumaya/Github-Certification/assets/160533319/e635588b-6e54-4bd8-a58d-8fcf9b37bb35)
